@@ -43,7 +43,7 @@ Product categories
 Sales, profit, and discount values
 
 📷 Dashboard Preview
-screenshots/Screenshot 2025-12-25 155230.png
+<img width="1127" height="643" alt="Screenshot 2025-12-25 155230" src="https://github.com/user-attachments/assets/41a2aaeb-d4ba-4f45-aa63-2e28e1bbb4e8" />
 
 👤 Author
 Anil Survase
