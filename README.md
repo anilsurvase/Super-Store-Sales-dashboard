@@ -1,0 +1,80 @@
+# 📊 Super Store Sales Dashboard
+
+## 🧾 Project Overview
+This project contains an interactive **Power BI dashboard** created using Super Store sales data.  
+The dashboard helps analyze sales performance, profit trends, regional performance, and product-level insights to support data-driven business decisions.
+
+---
+
+## 📁 Repository Structure
+Super-Store-Sales-dashboard/
+│
+├── dataset/ # Super Store sales dataset
+├── screenshots/ # Dashboard screenshots
+├── dashboard.pbix # Power BI dashboard file
+└── README.md # Project documentation
+
+---
+
+## 📌 Dashboard Features
+- 📈 **Sales Trend Analysis** (Monthly / Yearly)
+- 🌍 **Regional Sales Performance**
+- 🛒 **Category & Sub-Category Analysis**
+- 💰 **Profit & Discount Insights**
+- 🚚 **Shipping Mode Analysis**
+- 🎯 **Interactive Filters & Slicers**
+
+---
+
+## 🛠 Tools & Technologies
+- **Microsoft Power BI**
+- **Super Store Sales Dataset**
+- **Data Visualization & Analytics**
+
+---
+
+## 💻 How to Use This Project
+
+1. **Clone the repository**
+
+2. Open Power BI Dashboard
+
+Install Power BI Desktop
+
+Open dashboard.pbix
+
+Explore Insights
+
+Use slicers to filter by region, category, segment, and date
+
+Analyze sales, profit, and performance trends
+
+📂 Dataset Information
+
+The dataset used in this project is available inside the dataset/ folder and contains:
+
+Order details
+
+Customer segments
+
+Product categories
+
+Sales, profit, and discount values
+
+📷 Dashboard Preview
+
+Screenshots of the dashboard are available in the screenshots/ folder.
+
+
+👤 Author
+
+Anil Survase
+GitHub: https://github.com/anilsurvase
+
+⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to fork or contribute!
+
+
+---```bash
+git clone https://github.com/anilsurvase/Super-Store-Sales-dashboard.git
