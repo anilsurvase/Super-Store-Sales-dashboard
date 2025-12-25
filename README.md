@@ -33,41 +33,19 @@ Super-Store-Sales-dashboard/
 
 ---
 
-## 💻 How to Use This Project
-
-1. **Clone the repository**
-
-2. Open Power BI Dashboard
-
-Install Power BI Desktop
-
-Open dashboard.pbix
-
-Explore Insights
-
-Use slicers to filter by region, category, segment, and date
-
-Analyze sales, profit, and performance trends
 
 📂 Dataset Information
 
 The dataset used in this project is available inside the dataset/ folder and contains:
-
 Order details
-
 Customer segments
-
 Product categories
-
 Sales, profit, and discount values
 
 📷 Dashboard Preview
-
-Screenshots of the dashboard are available in the screenshots/ folder.
-
+screenshots/Screenshot 2025-12-25 155230.png
 
 👤 Author
-
 Anil Survase
 GitHub: https://github.com/anilsurvase
 
